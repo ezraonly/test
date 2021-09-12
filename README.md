@@ -1,6 +1,7 @@
 # test
 测试相关
 
+# 一、ocr识别
 ## JAVA使用Tess4J进行ocr识别
     Tess4J是对Tesseract OCR API.的Java JNA 封装。使java能够通过调用Tess4J的API来使用Tesseract OCR。支持的格式：TIFF,JPEG,GIF,PNG,BMP,JPEG,and PDF
     Tesseract 的github地址：https://github.com/tesseract-ocr/tesseract
@@ -37,4 +38,4 @@
 
     src/main/java/com/ezraonly/test/util/ocr/Tess4jUtils.java
 
-
+-----------------------------
